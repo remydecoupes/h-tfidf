@@ -27,5 +27,5 @@ H-TFIDF-results = htfidfBestTerms(
 
 ## Installation :construction:
 ```bash
-pip install h-tfidf
+pip install htfidf
 ```
