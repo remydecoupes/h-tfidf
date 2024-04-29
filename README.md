@@ -1,5 +1,5 @@
 <h1 align="center"> H-TFIDF
-:mag: :book:
+🔍 📖
 </h1>
 
 A NLP library for discriminant terms extraction in space and time
